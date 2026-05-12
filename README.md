@@ -72,7 +72,7 @@ I'm currently taking on freelance projects through **Upwork** and **Contra**. If
 
 <p>
   <a href="https://draw2code.com"><img src="https://img.shields.io/badge/Website-draw2code.com-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:your-email@draw2code.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kharoud.jk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- Replace the # below with your real profile links -->
   <a href="https://www.upwork.com/freelancers/jaskaransinghdraw2code"><img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://contra.com/draw2code_rjusoind?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=draw2code_rjusoind"><img src="https://img.shields.io/badge/Contra-View_Profile-000000?style=for-the-badge&logo=contra&logoColor=white" /></a>
